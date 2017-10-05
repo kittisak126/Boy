@@ -11,5 +11,6 @@ def subtraction(n1, n2):
 
 def test():
 	print('Hi Daworld')
+	print("kuy")
 	
 cal(int(input()), int(intput())
