@@ -13,4 +13,11 @@ def test():
 	print('Hi Daworld')
 	print("kuy")
 	
+
+def test():
+	print('omaewa mo shindaeru')
+
+def test():
+	print('nani')
+			
 cal(int(input()), int(intput())
