@@ -11,5 +11,8 @@ def subtraction(n1, n2):
 
 def test():
 	print('omaewa mo shindaeru')
-		
+
+def test():
+	print('nani')
+			
 cal(int(input()), int(intput())
